@@ -1,3 +1,3 @@
-# Basic Bootstrap and Hugo Starter
+# Video Tutorial - Hugo Landing Page templates
 
-See more starters at https://github.com/hugo-starters/
+A video that explains how to merge multiple pages into a landing style page
